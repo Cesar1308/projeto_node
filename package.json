@@ -2,6 +2,7 @@
   "name": "projeto_node",
   "version": "1.0.0",
   "description": "projeto node",
+  "type": "module",
   "main": "teste.js",
   "scripts": {
     "dev": "npx nodemon app.js",
